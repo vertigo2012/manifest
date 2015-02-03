@@ -29,7 +29,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/BeerGang/manifest -b lollipop
+$ repo init -u https://github.com/vertigo2012/manifest -b lollipop
 ```
 
 ### Downloading the source tree ###
