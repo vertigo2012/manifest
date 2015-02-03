@@ -26,7 +26,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="manifest" name="manifest" remote="github" revision="lollipop" />
+  <project path="manifest" name="BeerGang/manifest" remote="github" revision="lollipop" />
   <project path="build" name="AOSPA-legacy/android_build" remote="github" revision="lollipop" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
